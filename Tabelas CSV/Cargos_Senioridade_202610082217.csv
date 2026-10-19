@@ -1,0 +1,5 @@
+"Cargo_ID","Titulo_Cargo","Nivel_Senioridade","Salario_Base"
+1,Assistente,Júnior,3800.0
+2,Analista,Pleno,6800.0
+3,Especialista,Sênior,11500.0
+4,Gestor / Coordenador,Gestor,16000.0

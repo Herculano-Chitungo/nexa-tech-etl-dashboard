@@ -1,0 +1,106 @@
+"CPF","Nome","Sobrenome","Departamento_ID","Cargo_ID","Data_Admissao","Cor_Pele","Genero","Idade","Morada"
+"111222333",Venâncio,Gomes,14,2,"2022-01-10",Pardo,Masculino,32,São Paulo
+"222333444",Paul,Sandoval,14,3,"2021-05-12",Branco,Masculino,38,São Paulo
+"333444556",Herculano,Chitungo,59,4,"2019-03-15",Negro,Masculino,41,Florianópolis
+"444556677",Isabel,Lopez,37,2,"2023-02-20",Branco,Feminino,29,São Paulo
+"555667788",Guillermo,Perez,77,3,"2020-07-11",Pardo,Masculino,35,Rio Janeiro
+"847219811",Mary,Moore,11,2,"2023-01-15",Branco,Feminino,28,Florianópolis
+"847219812",Carlos,Silva,11,1,"2023-03-20",Pardo,Masculino,25,Florianópolis
+"847219813",Beatriz,Costa,11,3,"2022-11-10",Branco,Feminino,34,Florianópolis
+"847219814",Lucas,Martins,11,2,"2023-06-05",Negro,Masculino,30,Florianópolis
+"847219815",Juliana,Almeida,11,1,"2024-01-10",Pardo,Feminino,26,Florianópolis
+"847219816",Marcos,Vinicius,11,2,"2022-08-14",Branco,Masculino,31,Florianópolis
+"847219817",Patricia,Lima,11,3,"2021-05-19",Pardo,Feminino,39,Florianópolis
+"847219818",Roberto,Carlos,11,1,"2023-09-01",Negro,Masculino,27,Florianópolis
+"847219819",Camila,Fernandes,11,2,"2022-12-04",Branco,Feminino,29,Florianópolis
+"847219820",Diego,Ribeiro,11,4,"2020-02-10",Branco,Masculino,45,Florianópolis
+"847219821",Larissa,Araujo,11,2,"2023-04-11",Pardo,Feminino,28,Florianópolis
+"847219822",Felipe,Gomes,11,1,"2024-02-15",Branco,Masculino,24,Florianópolis
+"847219823",Renata,Barbosa,11,3,"2021-07-22",Negro,Feminino,36,Florianópolis
+"847219824",Thiago,Nogueira,11,2,"2023-08-30",Pardo,Masculino,32,Florianópolis
+"847219825",Vanessa,Cardoso,11,1,"2023-10-12",Branco,Feminino,26,Florianópolis
+"123234877",Michael,Rogers,14,3,"2021-01-10",Branco,Masculino,35,São Paulo
+"152934485",Anand,Manikutty,14,2,"2022-04-12",Pardo,Masculino,30,São Paulo
+"332154719",Mary-Anne,Foster,14,3,"2020-09-15",Branco,Feminino,38,São Paulo
+"845657245",Elizabeth,Doe,14,2,"2023-02-18",Branco,Feminino,27,São Paulo
+"845657246",Kumar,Swamy,14,1,"2023-05-20",Pardo,Masculino,25,São Paulo
+"142354678",Bruno,Teixeira,14,2,"2022-06-14",Branco,Masculino,33,São Paulo
+"142354679",Daniela,Pires,14,3,"2021-08-19",Pardo,Feminino,36,São Paulo
+"142354680",Eduardo,Melo,14,1,"2023-10-05",Branco,Masculino,24,São Paulo
+"142354681",Fabiana,Rocha,14,4,"2019-11-11",Negro,Feminino,44,São Paulo
+"142354682",Gabriel,Souza,14,2,"2022-01-25",Pardo,Masculino,29,São Paulo
+"142354683",Heloisa,Campos,14,1,"2024-01-08",Branco,Feminino,23,São Paulo
+"142354684",Igor,Cavalcanti,14,3,"2021-03-30",Branco,Masculino,37,São Paulo
+"142354685",Jessica,Morais,14,2,"2023-07-14",Pardo,Feminino,28,São Paulo
+"142354686",Kleber,Peixoto,14,1,"2023-09-22",Negro,Masculino,26,São Paulo
+"142354687",Lorena,Farias,14,2,"2022-05-17",Branco,Feminino,31,São Paulo
+"142354688",Matheus,Viana,14,3,"2020-12-01",Pardo,Masculino,40,São Paulo
+"142354689",Natalia,Duarte,14,2,"2023-03-11",Branco,Feminino,29,São Paulo
+"142354690",Otavio,Borges,14,1,"2024-02-01",Branco,Masculino,25,São Paulo
+"142354691",Priscilla,Monteiro,14,3,"2021-06-18",Pardo,Feminino,35,São Paulo
+"142354692",Rafael,Antunes,14,2,"2022-09-09",Branco,Masculino,32,São Paulo
+"142354693",Sabrina,Fagundes,14,1,"2023-11-20",Negro,Feminino,27,São Paulo
+"142354694",Vitor,Hugo,14,4,"2018-05-14",Branco,Masculino,46,São Paulo
+"142354695",Wellington,Dias,14,2,"2022-07-03",Pardo,Masculino,30,São Paulo
+"142354696",Ximena,Rojas,14,1,"2024-03-01",Branco,Feminino,24,São Paulo
+"142354697",Yuri,Gagarin,14,3,"2020-10-10",Branco,Masculino,39,São Paulo
+"223344551",Alice,Wonder,22,3,"2021-02-10",Branco,Feminino,34,São Paulo
+"223344552",Bob,Builder,22,2,"2022-05-11",Pardo,Masculino,31,São Paulo
+"223344553",Charlie,Brown,22,1,"2023-01-14",Branco,Masculino,26,São Paulo
+"223344554",Diana,Prince,22,4,"2019-08-20",Branco,Feminino,42,São Paulo
+"223344555",Evan,Almighty,22,2,"2022-09-12",Negro,Masculino,33,São Paulo
+"223344556",Fiona,Gallagher,22,3,"2021-11-05",Branco,Feminino,36,São Paulo
+"223344557",George,Clooney,22,1,"2023-04-18",Branco,Masculino,28,São Paulo
+"223344558",Hannah,Montana,22,2,"2022-07-22",Pardo,Feminino,27,São Paulo
+"223344559",Ian,Malcolm,22,3,"2020-04-15",Branco,Masculino,41,São Paulo
+"223344560",Julia,Roberts,22,2,"2023-02-10",Branco,Feminino,30,São Paulo
+"223344561",Kevin,Spacey,22,1,"2024-01-05",Branco,Masculino,25,São Paulo
+"223344562",Linda,Hamilton,22,3,"2021-10-30",Pardo,Feminino,38,São Paulo
+"223344563",Mark,Zuck,22,4,"2018-03-12",Branco,Masculino,43,São Paulo
+"223344564",Nora,Vander,22,2,"2022-08-19",Branco,Feminino,29,São Paulo
+"223344565",Oscar,Wilde,22,1,"2023-11-11",Pardo,Masculino,27,São Paulo
+"222364883",Carol,Smith,37,2,"2022-03-10",Branco,Feminino,32,Florianópolis
+"326587417",Joe,Stevens,37,3,"2020-06-15",Branco,Masculino,39,Florianópolis
+"373737371",Ana,Paula,37,1,"2023-01-20",Pardo,Feminino,25,Florianópolis
+"373737372",Carlos,Eduardo,37,2,"2022-05-18",Branco,Masculino,33,Florianópolis
+"373737373",Debora,Seco,37,3,"2021-09-12",Branco,Feminino,37,Florianópolis
+"373737374",Elias,Zimmermann,37,1,"2024-02-10",Branco,Masculino,24,Florianópolis
+"373737375",Flavia,Alessandra,37,2,"2022-11-04",Pardo,Feminino,31,Florianópolis
+"373737376",Gilberto,Gil,37,4,"2017-01-15",Negro,Masculino,50,Florianópolis
+"373737377",Helena,Russi,37,2,"2023-03-25",Branco,Feminino,28,Florianópolis
+"373737378",Ivan,Lins,37,1,"2023-08-14",Pardo,Masculino,26,Florianópolis
+"546523478",John,Doe,59,3,"2020-02-15",Branco,Masculino,38,Florianópolis
+"654873219",Zacary,Efron,59,2,"2022-07-10",Branco,Masculino,29,Florianópolis
+"745685214",Eric,Goldsmith,59,4,"2018-09-11",Branco,Masculino,45,Florianópolis
+"595959501",Amanda,Seyfried,59,1,"2023-01-11",Branco,Feminino,26,Florianópolis
+"595959502",Bernardo,Santana,59,2,"2022-04-19",Pardo,Masculino,31,Florianópolis
+"595959503",Claudia,Raia,59,3,"2021-08-22",Branco,Feminino,42,Florianópolis
+"595959504",Dante,Alighieri,59,1,"2024-01-15",Branco,Masculino,24,Florianópolis
+"595959505",Elisa,Lopes,59,2,"2022-10-05",Pardo,Feminino,30,Florianópolis
+"595959506",Fabio,Assuncao,59,3,"2020-11-18",Branco,Masculino,39,Florianópolis
+"595959507",Gisela,Bündchen,59,2,"2023-03-01",Branco,Feminino,33,Florianópolis
+"595959508",Heitor,Villa,59,1,"2023-06-12",Pardo,Masculino,27,Florianópolis
+"595959509",Isis,Valverde,59,4,"2019-07-20",Branco,Feminino,37,Florianópolis
+"595959510",Jonas,Brothers,59,2,"2022-12-01",Branco,Masculino,28,Florianópolis
+"595959511",Karina,Bacchi,59,1,"2024-02-18",Branco,Feminino,25,Florianópolis
+"595959512",Leandro,Karnal,59,3,"2021-05-14",Branco,Masculino,44,Florianópolis
+"595959513",Marcia,Tiburi,59,2,"2022-08-30",Pardo,Feminino,34,Florianópolis
+"595959514",Nelson,Mandela,59,4,"2015-01-10",Negro,Masculino,55,Florianópolis
+"595959515",Olivia,Wilde,59,1,"2023-09-05",Branco,Feminino,29,Florianópolis
+"595959516",Paulo,Coelho,59,3,"2020-03-22",Branco,Masculino,48,Florianópolis
+"595959517",Queila,Mattos,59,2,"2022-11-15",Pardo,Feminino,32,Florianópolis
+"332569843",George,O'Donnell,77,3,"2020-04-10",Branco,Masculino,37,Curitiba
+"631231482",David,Smith,77,2,"2022-01-15",Branco,Masculino,31,Curitiba
+"777777701",Albert,Einstein,77,4,"2016-05-11",Branco,Masculino,52,Curitiba
+"777777702",Marie,Curie,77,3,"2017-08-14",Branco,Feminino,49,Curitiba
+"777777703",Nikola,Tesla,77,3,"2018-02-19",Branco,Masculino,46,Curitiba
+"777777704",Isaac,Newton,77,4,"2015-10-01",Branco,Masculino,54,Curitiba
+"777777705",Charles,Darwin,77,2,"2021-03-12",Branco,Masculino,38,Curitiba
+"777777706",Rosalind,Franklin,77,3,"2019-07-25",Branco,Feminino,40,Curitiba
+"777777707",Stephen,Hawking,77,4,"2014-11-05",Branco,Masculino,51,Curitiba
+"777777708",Ada,Lovelace,77,2,"2022-06-18",Branco,Feminino,30,Curitiba
+"777777709",Alan,Turing,77,3,"2018-09-10",Branco,Masculino,43,Curitiba
+"777777710",Galileo,Galilei,77,2,"2021-12-01",Branco,Masculino,36,Curitiba
+"777777711",Louis,Pasteur,77,3,"2019-04-14",Branco,Masculino,44,Curitiba
+"777777712",Gregor,Mendel,77,1,"2023-02-15",Branco,Masculino,28,Curitiba
+"777777713",Linus,Pauling,77,2,"2022-10-20",Branco,Masculino,35,Curitiba
