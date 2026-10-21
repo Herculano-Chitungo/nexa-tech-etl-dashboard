@@ -21,5 +21,5 @@ Este projeto simula uma auditoria completa de RH e Finanças corporativas dividi
 ├── Tabelas CSV/                        # Ficheiros de dados brutos exportados do DBeaver
 ├── Tabelas_Trabalhadas_PowerBI/        # Bases tratadas, limpas e expandidas (2025-2026)
 ├── Notebook_ETL_NexaTech.ipynb         # Script em Python do pipeline ETL (Google Colab)
-├── Projeto_Final_Grupo_8.pbix          # Relatório executivo oficial do Power BI
+├── Projeto_Final.pbix                  # Relatório executivo oficial do Power BI
 └── README.md                           # Documentação oficial do projeto
